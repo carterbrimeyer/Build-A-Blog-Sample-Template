@@ -2,8 +2,8 @@
 id: 2
 ---
 
-### Left Section
+### Right Section
 
-This is an example of a section.
+This is an example of another section.
 
-You can put whatever fancy markdown you want here!
+This section is cooler than the left section.
